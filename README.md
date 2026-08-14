@@ -6,5 +6,5 @@ The idea is adapted from BowTiedCrake's [2XD8 Entropy Booklet](https://x.com/bow
 
 ## Contents
 
-- `2xd8-workflow-demo.html` — interactive walkthrough of the proposed verification workflow
+- `index.html` — interactive walkthrough of the proposed verification workflow ([live demo](https://bowtiedcrake.github.io/2xd8-firmware-proposal/))
 - `booklet-pages/` — entropy booklet page images referenced by the demo
